@@ -1,6 +1,6 @@
 bottle==0.12.13
 bottle-sqlalchemy==0.4.3
-gunicorn==19.9.0
+gunicorn==22.0.0
 PyMySQL==0.8.0
-SQLAlchemy==1.2.2
-tornado==4.5.3
+SQLAlchemy==2.1.8
+tornado==6.6
