@@ -5,7 +5,7 @@ click==6.7
 Flask==0.12.2
 Flask-SQLAlchemy==2.3.2
 greenlet==0.4.14
-gunicorn==19.9.0
+gunicorn==22.0.0
 itsdangerous==0.24
 Jinja2==2.10.1
 MarkupSafe==1.0
@@ -13,6 +13,6 @@ PyMySQL==0.8.0
 readline==6.2.4.1
 singledispatch==3.4.0.3
 six==1.11.0
-SQLAlchemy==1.2.2
-tornado==4.5.3
+SQLAlchemy==2.1.8
+tornado==6.6
 Werkzeug==0.14.1
